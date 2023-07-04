@@ -1,3 +1,38 @@
+# Synesthesia
+
+## Description
+
+A music visualizer that has digital artwork that is interactive with the music you play
+
+### Research & Planning Log
+#### Tuesday, 7/4
+* 9:40: set up base react project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
